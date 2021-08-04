@@ -1,0 +1,3 @@
+$(() => {
+    alert('JQuery is ready!');
+})
